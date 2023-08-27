@@ -1,5 +1,5 @@
 
-# YouTube data pipeline for crawling and pre-processing
+# VLSP 2022 & O-COCOSDA 2022 - YouTube data pipeline for crawling and pre-processing
 
 ## Dependencies
 
